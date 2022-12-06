@@ -1,4 +1,4 @@
-Hillel C# homework 1
+Hillel C# homework 2
 
 ## **Создать консольное приложение.**
 
