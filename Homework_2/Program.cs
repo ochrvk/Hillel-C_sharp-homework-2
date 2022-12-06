@@ -5,7 +5,6 @@ internal class Program
     private static void Main(string[] args)
     {
         int arrayLenght;
-        int counter = 0;
 
         Console.Write("Please, enter array lenght: ");
         try
